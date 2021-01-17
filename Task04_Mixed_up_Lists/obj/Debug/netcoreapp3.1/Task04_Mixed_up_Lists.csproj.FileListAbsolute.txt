@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\bin\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.exe
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\bin\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.deps.json
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\bin\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.runtimeconfig.json
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\bin\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\bin\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.dll
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\bin\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.pdb
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\obj\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\obj\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\obj\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\obj\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\obj\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.dll
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\obj\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.pdb
+C:\Users\Kiril\source\repos\05_Exercise_More\Task04_Mixed_up_Lists\obj\Debug\netcoreapp3.1\Task04_Mixed_up_Lists.genruntimeconfig.cache
